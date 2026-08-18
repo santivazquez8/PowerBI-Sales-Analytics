@@ -38,7 +38,7 @@ Se desarrollaron medidas DAX para analizar:
 
 ### Detalle de Ventas
 
-![Detalle de Ventas](Detalle_de_Ventas.png)
+![Detalle de Ventas](Detalle_de_ventas.png)
 
 ## Insights principales
 
