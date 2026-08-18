@@ -42,11 +42,12 @@ Se desarrollaron medidas DAX para analizar:
 
 ## Insights principales
 
-* El **99,12 %** de las operaciones se encuentran en tiempo, frente a un **0,88 %** vencidas.
-* La zona **Sur** concentra aproximadamente el **37,3 %** de las ventas, con $513 M.
-* La diferencia entre la zona Sur y Occidente alcanza aproximadamente **$292 M**.
-* Los productos de tamaño **Grande** concentran aproximadamente el **32,6 %** de los costos.
-* El margen sobre ventas calculado en el modelo alcanza el **79,73 %**.
+* **Cumplimiento de entregas:** 98.425 operaciones se encuentran en tiempo frente a 875 vencidas, sobre un total de 99.300 operaciones.
+* **Ventas por zona:** la zona Sur lidera las ventas con $513 M, seguida por Norte ($384 M), Oriente ($258 M) y Occidente ($221 M).
+* **Evolución temporal:** las ventas presentan un comportamiento fluctuante, con patrones estacionales y períodos de mayor y menor actividad comercial.
+* **Costos por tamaño:** los productos de tamaño Grande presentan el mayor nivel de costos ($91 M), mientras que los de tamaño Mediano presentan el menor ($55 M).
+* **Rentabilidad:** el dashboard muestra una rentabilidad global de 79,73 %, con ventas totales de $1.376.170.827 y costos totales de $278.940.587.
+
 
 ## Herramientas
 
