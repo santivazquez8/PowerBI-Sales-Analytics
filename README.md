@@ -1,8 +1,17 @@
-# Sales Analytics – Power BI
+# Power BI | Sales Analytics
 
-## Descripción
+Proyecto de análisis de ventas desarrollado en Power BI, enfocado en el análisis de performance comercial, rentabilidad y comportamiento de ventas.
 
-Proyecto de análisis de ventas desarrollado en Power BI, orientado al análisis de ventas, costos, rentabilidad, distribución geográfica y cumplimiento de entregas.
+## Dashboard
+
+### Overview
+
+![Overview](images/overview.png)
+
+### Sales Detail
+
+![Sales Detail](images/sales_detail.png)
+
 
 ## Objetivo
 
