@@ -39,7 +39,7 @@ Se desarrollaron medidas DAX para analizar:
 * Cantidad de Unidades Vendidas
 * Promedio de Diferencia de Días
 
-![Modelo de Datos](Screenshots/Modelo_de_Datos.png)
+![Modelo de Datos](Screenshots/Modelo_de_Datos_.png)
 
 ## Dashboard
 
