@@ -6,11 +6,11 @@ Proyecto de análisis de ventas desarrollado en Power BI, enfocado en el anális
 
 ### Overview
 
-![Overview](images/overview.png)
+![Overview](Screenshots/Overview.png)
 
 ### Sales Detail
 
-![Sales Detail](images/sales_detail.png)
+![Detalle de Ventas](Screenshots/Detalle_de_ventas.png)
 
 
 ## Objetivo
