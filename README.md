@@ -41,15 +41,6 @@ Se desarrollaron medidas DAX para analizar:
 
 ![Modelo de Datos](Screenshots/Modelo_de_Datos_.png)
 
-## Dashboard
-
-### Overview
-
-![Overview](Screenshots/Overview.png)
-
-### Detalle de Ventas
-
-![Detalle de Ventas](Screenshots/Detalle_de_ventas.png)
 
 ## Insights principales
 
